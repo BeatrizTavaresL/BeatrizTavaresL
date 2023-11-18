@@ -1,10 +1,10 @@
 ### Olá, eu sou a Beatriz Tavares!
 
-💻 Estou aprendendo constantemente sobre tecnologias. 
+💻 Atualmente faço estágio na área de TI no Itaú Unibanco, atuo em Back End com a linguagem Python em automações.
  <br /> 
-📚 Cursando Análise e Desenvolvimento de Sistemas, na Universidade de Mogi das Cruzes - UMC. 
+📚 Cursando Análise e Desenvolvimento de Sistemas. 
  <br /> 
-📌 Tenho 22 anos. 
+📌 Tenho 23 anos. 
 
 <div>
   <a href="https://github.com/BeatrizTavaresL">
@@ -23,16 +23,15 @@
 
 <div align="center" valign="top"><br>
   
- Linguagens que tenho conhecimentos:  👇 
+ Linguagens que tenho conhecimentos básicos:  👇 
   
   <br/>
-  
+Python <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 Java <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 JavaScript <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 HTML <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 CSS  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-C# <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-SQL <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
  </div> <br/>
  
  
