@@ -1,7 +1,7 @@
 <h1> Hi! My name is Beatriz :) </h1>
 📚 Cursando Análise e Desenvolvimento de Sistemas. 
  
-💻 Estagiando como Analista de Engenharia de TI no Itaú Unibanco, reduzindo o tempo de indisponibilidade das agências com automatizações, permitindo que a Operação Telecom possa focar em outras atividades.
+💻 Estagiando como Analista de Engenharia de TI no Itaú Unibanco, com o papel de reduzir o tempo de indisponibilidade das agências com automatizações, permitindo que a Operação Telecom possa focar em outras atividades.
 
 <br>
 <div>
