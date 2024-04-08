@@ -1,9 +1,7 @@
 <h1> Hi! My name is Beatriz :) </h1>
 📚 Cursando Análise e Desenvolvimento de Sistemas. 
-
- <br>  
-💻 Estagiária - Itaú Unibanco, como Desenvolvedora, automatizando processos em equipamentos das agências.
- <br/>   
+ 
+💻 Estagiando como Analista de Engenharia de TI no Itaú Unibanco, reduzindo o tempo de indisponibilidade das agências com automatizações, permitindo que a Operação Telecom possa focar em outras atividades.
 
 <br>
 <div>
@@ -28,6 +26,4 @@ Linguagem que tenho maior conhecimento, pois atualmente trabalho com ela:  👇
 <br/>
  Python <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
- ![Snake animation](https://github.com/BeatrizTavaresL/BeatrizTavaresL/blob/output/github-contribution-grid-snake.svg)
- 
  </div> <br/>
