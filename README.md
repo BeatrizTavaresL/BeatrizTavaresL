@@ -1,4 +1,4 @@
-<h1> Hi! My name is Beatriz :) </h1>
+<h1> Desenvolvedora de Software :) </h1>
 💻 Software Developer at Mercado Livre 💛
 
 <img src="https://github.com/user-attachments/assets/ef254cd6-6a64-42b3-86e6-a45764a23d38" width="20" /> AWS Certified  
