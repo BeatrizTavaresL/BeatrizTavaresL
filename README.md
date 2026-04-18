@@ -2,7 +2,7 @@
 
 💻 Software Developer at Mercado Livre 💛 <br>
 <img src="https://github.com/user-attachments/assets/ef254cd6-6a64-42b3-86e6-a45764a23d38" width="20" /> AWS Certified <br>
-📚 Cursando Análise e Desenvolvimento de Sistemas 
+📚 Formada em Análise e Desenvolvimento de Sistemas 
 
 <div>
   <a href="https://github.com/BeatrizTavaresL">
